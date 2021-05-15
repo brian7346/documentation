@@ -171,8 +171,7 @@ export default {
         <p>
           Если вы используете свойство <code>defaultValue</code>, то оно будет
           иметь приоритет над значением <code>defaultValues</code> из{" "}
-          <code>useForm</code>
-          для соответствующего поля со свойством <code>name</code>.
+          <code>useForm</code> для соответствующего поля со свойством <code>name</code>.
         </p>
       </>
     ),
